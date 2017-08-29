@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: hotreload
 Version: 0.1.0
 Summary: automatic code reloader with hot swapping
-Home-page: https://github.com/imjuls/hotreload
+Home-page: https://github.com/timka/hotreload
 Author: Julian Schleemann
 Author-email: julian.schleemann@gmail.com
 License: CC0

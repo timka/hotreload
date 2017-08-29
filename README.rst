@@ -10,6 +10,14 @@ a library or run as a command line program.
 
 ``hotreload`` requires Python 3.4+.
 
+NOTE
+----
+
+This is a resurrection of no longer available https://github.com/imjuls/hotreload
+
+Source taken from https://testpypi.python.org/pypi/hotreload/0.1.0
+
+
 Usage
 -----
 ``hotreload.watch(path)`` starts a background thread which monitors changes to

@@ -16,7 +16,7 @@ version = str(ast.literal_eval(
 setup(
     name='hotreload',
     version=version,
-    url='https://github.com/imjuls/hotreload',
+    url='https://github.com/timka/hotreload',
     description='automatic code reloader with hot swapping',
     long_description=_read('README.rst'),
     author='Julian Schleemann',
